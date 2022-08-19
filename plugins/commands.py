@@ -254,7 +254,7 @@ async def start(client, message):
             InlineKeyboardButton('Channel ⭕️', url='https://t.me/+JDaygU-G-fc2YTE1')
         ],
         [
-            InlineKeyboardButton('🎬 Movie Hub 🎬', url=f'https://t.me/+JDaygU-G-fc2YTE1)
+            InlineKeyboardButton('🎬 Movie Hub 🎬', url=f'https://t.me/+JDaygU-G-fc2YTE1')
         ]
         ]
     await client.send_cached_media(
